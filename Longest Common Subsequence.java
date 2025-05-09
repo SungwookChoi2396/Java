@@ -1,4 +1,4 @@
-// Leetcode Question 1143
+// Leetcode Question 1143 Dynamic Programming
 
 // Example 1:
 // Input: text1 = "abcde", text2 = "ace" 
