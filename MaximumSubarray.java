@@ -40,7 +40,7 @@ public class MaxSubArray {
             // Update maxSoFar by comparing currentMax and previous maxSoFar
             maxSoFar = Math.max(currentMax, maxSoFar);
         }
-        // Return the maximum sum of the subarray
+        // Return the Maximum sum of the Subarray
         return maxSoFar;
 
 
